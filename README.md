@@ -1,5 +1,4 @@
 # Moedy1.github.io
-projectwebsite
 <html>
     <head>
         <meta charset="utf-8">
@@ -8,7 +7,7 @@ projectwebsite
         h1 {font-size:32px;
             font-family:consolas;
             text-align:center;
-            z-index:1;
+            
             
         }
         h2{ font-family:monospace;
