@@ -13,7 +13,9 @@ Mohamed Ayyoub
         h2{ font-family:monospace;
             text-align:center;
             border-top:5px dotted black;
-            border-bottom:5px dotted black;
+          
+            border-bottom:10px dotted black;
+            
             padding:83px;}
             
            
