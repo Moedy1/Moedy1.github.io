@@ -25,7 +25,7 @@ Mohamed Ayyoub
             position:absolute;
             
             top:37px;
-            bottom:92px;
+            bottom:80px;
             right:13px;
             left:65px;
             
