@@ -30,6 +30,7 @@ Mohamed Ayyoub
             left:65px;
             
             }
+            
             #inv{text-align:center;
             font-weight:bold;
             font-size:15px;
