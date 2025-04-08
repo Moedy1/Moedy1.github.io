@@ -21,15 +21,8 @@ Mohamed Ayyoub
         
         
            
-            #heart{ text-align:center;
-            position:absolute;
+           
             
-            top:37px;
-            bottom:80px;
-            right:13px;
-            left:65px;
-            
-            }
             
             #inv{text-align:center;
             font-weight:bold;
@@ -79,7 +72,7 @@ Mohamed Ayyoub
      
         <h1>Together with their family</h1>
         <div id="wed"><h2>Saminka Rushinki & Forko Somko</h2></div>
-           <div id="heart"><img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/Heart.png"></div>
+           
         <div id="inv"> <p> Invite you to their wedding</p></div>
         
         <div id="date"> <p> Sunday 30  August 2200 17:00 </p></div>
